@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 function makeTextBigger(){
     document.getElementById("textArea").style.fontSize = "24pt";
@@ -37,3 +38,6 @@ function mooText(){
     //textArea.ariaValueMax
     textArea.value = sentences.join(".");
 }
+=======
+alert("Hello, world");
+>>>>>>> b46d1fbfc3a2e6ec3b370660c20e010b9d0c284c
